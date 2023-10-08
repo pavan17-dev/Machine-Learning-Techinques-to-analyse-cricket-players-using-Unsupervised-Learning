@@ -1,0 +1,2 @@
+# Machine-Learning-Techinques-to-analyse-cricket-players-using-Unsupervised-Learning
+This project delves into a comprehensive analysis of team and player performance in the Indian Premier League (IPL) 2022. The dataset includes detailed information on teams, players, and their respective performances. The analysis aims to uncover the strengths and weaknesses of teams and individual players based on their on-field performances.
